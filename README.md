@@ -63,10 +63,8 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangeaditya&theme=tokyonight&hide_border=false&show_icons=true" width="47%" />
-  <img src="https://streak-stats.demolab.com?user=dangeaditya&theme=tokyonight&hide_border=false" width="47%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangeaditya&theme=tokyonight&layout=compact&hide_border=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dangeaditya&theme=tokyonight&show_icons=true&hide_border=false" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=dangeaditya&theme=tokyonight&hide_border=false" width="48%" />
 </div>
 
 ---
